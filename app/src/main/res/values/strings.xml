@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">לומדים אנגלית</string>
+    <string name="greeting_morning">בוקר טוב!</string>
+    <string name="greeting_afternoon">צהריים טובים!</string>
+    <string name="greeting_evening">ערב טוב!</string>
+    <string name="level_beginner">מתחילים</string>
+    <string name="level_basic">בסיסי</string>
+    <string name="level_intermediate">בינוני</string>
+    <string name="level_advanced">גבוה</string>
+    <string name="level_expert">מתקדם מאוד</string>
+    <string name="xp_label">XP</string>
+    <string name="streak_label">ימים רצף</string>
+    <string name="daily_goal">יעד יומי</string>
+    <string name="daily_challenge">אתגר יומי: למד 10 מילים חדשות</string>
+    <string name="words_to_review">מילים לחזרה</string>
+    <string name="recommended_action">מה כדאי לעשות עכשיו?</string>
+    <string name="start_learning">התחל ללמוד</string>
+    <string name="nav_home">בית</string>
+    <string name="nav_words">מילים</string>
+    <string name="nav_practice">תרגול</string>
+    <string name="nav_reading">קריאה</string>
+    <string name="nav_grammar">דקדוק</string>
+    <string name="nav_settings">הגדרות</string>
+    <string name="level_test">מבחן רמה</string>
+    <string name="my_words">המילים שלי</string>
+    <string name="errors_system">מערכת טעויות</string>
+</resources>
